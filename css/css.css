@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.padding-top-sm{
+    padding-top:30px;
+}
+.padding-top-xs{
+    padding-top:15px;
+}
+.table-header span{
+    font-weight:600;
+}
+.table-header{
+
+}
+.table-header .row{
+    border-bottom: 1px solid #f6f6f6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cust-table .table-body .row{
+    border-bottom: 1px solid #f6f6f6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 300;
+}
+.ui-select-match input{
+    width:100% !important;
+}
